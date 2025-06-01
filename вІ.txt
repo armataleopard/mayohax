@@ -1,0 +1,48 @@
+Technical Specification: $gl1tch (mayohax) Memecoin Website
+1. Project Overview
+Develop a single-page (or multi-section with non-traditional navigation) website for the $gl1tch (mayohax) memecoin. The design must be sharp, premium, visually rich, and fully aligned with the token's insane, humorous aesthetic. This includes integrating the concepts of DDoS attacks, mayonnaise, retro tech, software errors, and cyber-chaos. The site should explicitly avoid any themes or language related to "rug pulls" or other scam methodologies, focusing solely on a high-quality, ironic, and absurd presentation. The goal is to evoke a sense of an ironic tech-dystopia and cyberpunk madness.
+
+2. Target Audience
+Crypto enthusiasts, memecoin collectors, cypherpunks, developers with a sense of humor, and fans of absurdity and retro-tech culture.
+
+3. Core Design Principles
+Premium & Sharp Visuals: Utilize high-quality graphics, unconventional color palettes (e.g., neon accents on dark backgrounds, acidic hues, high-contrast combinations). Typography should be bold, potentially incorporating glitch effects or retro-computer fonts.
+Stylistic Cohesion: Full integration of the visual concepts provided (DDoS, mayonnaise, CRT monitors, Winamp, floppy disks, spoons, glitch effects, error codes).
+Original Structure: Depart from standard website sections. Instead, employ unconventional blocks, overlaps, asymmetry, and unexpected visual solutions to present information.
+Rich Animations & Interactivity: Extensive use of dynamic elements, parallax effects, glitch animations, custom cursors, and interactive elements (e.g., "crash the server" on click, "smear mayo" on a page element).
+Atmospheric Immersion: Create an immersive experience that conveys a "system crash with vibes," cyberpunk madness, and ironic technological disaster.
+4. Website Structure & Content (Original Layout)
+4.1. Main Page / Loading Screen (Potentially Combined)
+Background: Dynamic background image or animation in the style of the provided visual concepts (e.g., glitching server, mayo spills with code, random sparks).
+Central Element: Large, stylized "mayohax" title prominently displayed in the center. It should feature a glitch effect or a unique, bold font.
+Subtitle: Immediately below the title, in a smaller but legible font: "LAUNCHING AT PUMP.FUN 30MAY".
+Custom Cursor: A unique, themed cursor (e.g., an animated spoon, a glitching arrow, an error icon).
+Loading Animation (if applicable): A non-standard animation related to the theme (e.g., a mayonnaise jar filling up, Winamp starting, pixelated errors appearing).
+4.2. "Who is mayohax?" Section
+Visually present the token description (from the provided info, point #1). This could involve animated text, graphic overlays, or an unconventional block layout.
+Interactive Element: A click on a "server rack" image could trigger an animation of mayo oozing out with accompanying text.
+4.3. "Mayonnaise Mayhem Community" Section
+Display the community purpose (from the provided info, point #2) using dynamic elements. Perhaps a tag cloud of keywords, animated icons representing "chaotic devs" or "cyber-goblins."
+Interactive Element: An option to "throw mayo" at an icon, triggering a humorous animation.
+4.4. "Chronicles of System Crashes" (Humorous Stories)
+Feature 5 compelling, humorous stories, each 100+ words, presented in an unconventional format. These could be stylized text blocks with illustrations, animated "error windows" displaying text, or a simulation of retro-social media threads. Each story must be unique and reflect the humor and absurdity of the mayohax universe.
+Potential Story Themes:
+The time mayohax accidentally brought down a local library's LAN trying to download a Winamp skin, leading to a mayo-fueled "fix."
+The bizarre tale of how mayonnaise became an unexpected (and surprisingly effective) coolant for an overheating server, much to the IT department's horror.
+The legend of the "Mayonnaise Blockchain" that mayohax attempted to create on a dare, resulting in a distributed network of condiment-stained floppy disks.
+A recounting of how mayohax's outdated Winamp playlist, inadvertently streamed through a backdoor, caused inexplicable glitches in a major cybersecurity firm's systems.
+The epic saga of the final showdown between Grandma's hardened firewall and a rogue spoon wielded by mayohax, culminating in a pixelated explosion of condiments and code.
+4.5. "Connect with the Chaos" Section
+Twitter Buttons: Prominently display two stylized Twitter buttons (matching the overall design, possibly with glitch effects on hover) for the specific tweets provided (point #3).
+Telegram Link: A stylized icon or button linking to the Telegram channel (point #4).
+Optional: Integration of a Twitter feed widget within a styled block.
+4.6. "System Launch" Section
+Visually emphasize the Pump.fun launch information (point #6). This could be a large, animated "LAUNCH ON PUMP.FUN" button, possibly with a countdown timer leading up to May 30th.
+The actual Pump.fun link will be embedded in this button.
+5. Technical Requirements
+Platform: Frontend framework (e.g., React, Vue, Svelte) for dynamic interactions.
+Animation Libraries: Utilize libraries like GSAP, Three.js (for more complex 3D effects if desired), or Lottie for smooth and high-performance animations.
+Responsiveness: Fully responsive design for optimal viewing across desktops, tablets, and mobile devices.
+Performance: Optimized for fast loading times despite rich visuals and animations.
+Browser Compatibility: Cross-browser compatibility (Chrome, Firefox, Safari, Edge).
+Accessibility: Basic accessibility considerations for navigation (though the chaotic nature might limit some aspects).
